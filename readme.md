@@ -9,3 +9,5 @@ changes
 
 
 even more changes
+
+closes issue 
